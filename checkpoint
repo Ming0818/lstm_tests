@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/adrian/code/playgrounds/tf-speakrec/dnn_mfcc_48_128_4.tfl"
+all_model_checkpoint_paths: "/Users/adrian/code/playgrounds/tf-speakrec/dnn_mfcc_48_128_4.tfl"
